@@ -4,13 +4,6 @@ Convert plain English questions into executable MySQL queries using LLaMA 3.1 (v
 
 ---
 
-## 📸 Interface
-
-![Text to SQL Interface](screenshots/Interface.png)
-
-*The app takes a natural language question, generates the SQL query, executes it on the Sakila database, and displays the results — all in real time.*
-
----
 
 ## 🚀 Features
 
